@@ -1,0 +1,15 @@
+{
+	"name": "adf-spotify-harsh",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7089bba2-5584-4f5a-a7ab-4adc37352fc9",
+		"tenantId": "8983dd0f-35cd-4a9d-8ff4-ad2301b3eabd"
+	}
+}
